@@ -2,7 +2,7 @@
 
 
 
-# Practical IBM Cloud Private Workshop
+# **TTT2018**
 
 
 ![ICP Logo](./images/logoicp.png)
