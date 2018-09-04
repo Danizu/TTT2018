@@ -681,7 +681,7 @@ hellonginx-6bcd9f4578-zqt6r   1/1       Running   0          11m
 
 ### 7. Upgrade
 
-We now want to change the number of replicas to 3:
+We now want to change the number of replicas to 3 (change the **replicaCount** variable in the **values.yaml** file:
 
 `helm  upgrade hellonginx . --tls`
 
