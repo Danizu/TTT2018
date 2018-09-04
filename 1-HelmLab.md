@@ -280,6 +280,8 @@ Then build the container:
 
 `docker images mycluster.icp:8500/default/hello-world`
 
+`docker push mycluster.icp:8500/default/hello-world:2`
+
 Result:
 
 ![Build2](./images/Build2.png)
